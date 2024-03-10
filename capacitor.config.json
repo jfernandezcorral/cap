@@ -1,0 +1,17 @@
+{
+	"appId": "com.julio.exx",
+	"appName": "cap",
+	"webDir": "www",
+	"allowMixedContent": true,
+	"server": {
+		"iosScheme": "http",
+		"allowNavigation": [
+			"*"
+		]
+	},
+  "plugins":{
+    "Keyboard":{
+      "resize": "native"
+    }
+  }
+}
